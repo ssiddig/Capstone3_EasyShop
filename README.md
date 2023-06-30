@@ -31,6 +31,11 @@ The website utilizied the following:
 
 * These are images of the website running, being able to change categories, change order of products, color or price, with images of each product.
 
+![Screen Shot 2023-06-30 at 8 25 40 AM](https://github.com/ssiddig/Capstone3_EasyShop/assets/129996035/241ba231-5402-4536-9b2c-506069b1a2fd)
+![Screen Shot 2023-06-30 at 8 25 15 AM](https://github.com/ssiddig/Capstone3_EasyShop/assets/129996035/d9d1b11c-0bbe-4740-ad3f-44eba008134d)
+![Screen Shot 2023-06-30 at 8 25 01 AM](https://github.com/ssiddig/Capstone3_EasyShop/assets/129996035/dc495466-0d56-4664-86a9-8a480748e02e)
+![Screen Shot 2023-06-30 at 8 24 53 AM](https://github.com/ssiddig/Capstone3_EasyShop/assets/129996035/e3418647-bdfc-48d9-8811-0d84c1450c06)
+
 
 
    
