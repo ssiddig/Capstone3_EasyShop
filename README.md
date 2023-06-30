@@ -5,13 +5,12 @@
 * Bug Fixing: This project includes bug fixing addressing multiple product entry errors and functionaility for users. 
 # Technologies Used
 The website utilizied the following: 
-* Backend:
+
     * Programming language: Java
     * Framework: Spring Boot
     * Database: MySQL
     * Dependecy management: Maven 
-*Frontend:
-    * User interface components: React components and libraries
+
  
 # Bug Fixing
 
