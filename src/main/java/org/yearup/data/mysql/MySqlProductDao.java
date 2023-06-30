@@ -11,13 +11,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Component
-public class MySqlProductDao extends MySqlDaoBase implements ProductDao
-{
-    public MySqlProductDao(DataSource dataSource)
-    {
+public class MySqlProductDao extends MySqlDaoBase implements ProductDao {
+    public MySqlProductDao(DataSource dataSource) {
         super(dataSource);
     }
-
 
     @Override
     public List<Product> getProductsByCategoryId(int categoryId) {
@@ -33,7 +30,8 @@ public class MySqlProductDao extends MySqlDaoBase implements ProductDao
                 "WHERE (category_id = ? OR ? = -1) " +
                 "   AND (price >= ? OR ? = -1) " +
                 "   AND (price <= ? OR ? = -1) " +
-                "   AND (color = ? OR ? = '') ";
+                "   AND (color = ? OR ? = '') " +
+                "   ORDER BY price; ";
 
         categoryId = categoryId == null ? -1 : categoryId;
         minPrice = minPrice == null ? new BigDecimal("-1") : minPrice;
