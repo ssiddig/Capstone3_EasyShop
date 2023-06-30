@@ -19,5 +19,18 @@ The website utilizied the following:
 2. Debugging: Taking techniques and resources to correct the cause of the error.
 3. Fixing the bug: Implement necessary codes and edits to create a functional code to run.
 
+# Testing
+
+* These are screenshots of testing done to make sure that the frontend is working the backend. If any errors do occur, you can reference back to your database.
+
+![Screen Shot 2023-06-30 at 8 15 26 AM](https://github.com/ssiddig/Capstone3_EasyShop/assets/129996035/8cee0a08-99ea-4075-8293-7a6094534373)
+![Screen Shot 2023-06-30 at 8 14 59 AM](https://github.com/ssiddig/Capstone3_EasyShop/assets/129996035/41041af7-3a1b-41f0-b635-17e4f0450db4)
+![Screen Shot 2023-06-30 at 8 14 38 AM](https://github.com/ssiddig/Capstone3_EasyShop/assets/129996035/996d0292-2181-4301-bf8a-f28426e5661d)
+
+# Application
+
+* These are images of the website running, being able to change categories, change order of products, color or price, with images of each product.
+
+
 
    
